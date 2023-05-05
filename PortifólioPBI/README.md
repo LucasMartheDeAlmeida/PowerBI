@@ -1,4 +1,4 @@
-#Power Bi linguagem M
+# Power Bi linguagem M
 
 Linguagem M é a linguagem de consulta e transformação de dados utilizada pelo Power Query, uma ferramenta de ETL (Extract, Transform and Load) que permite a conexão, importação e manipulação de dados em diversas fontes de dados, incluindo planilhas, bancos de dados, arquivos de texto e fontes de dados na nuvem. Nessa linguagem, é possível escrever consultas e expressões para transformar e limpar dados, criar colunas calculadas, agrupar, filtrar e classificar dados, e até mesmo desenvolver funções personalizadas.
 
